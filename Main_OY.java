@@ -75,7 +75,7 @@ public class Main_OY{
                         }
                         
                         System.out.println("\nType '***' in the next line after typing your entry.");
-                        System.out.println("\nPress Any Key to continue...");
+                        System.out.println("\nPress Enter to continue...");
                         scanner.nextLine();
                         System.out.println("Enter Your Entry: ");
                         
